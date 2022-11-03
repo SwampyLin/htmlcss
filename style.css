@@ -1,0 +1,29 @@
+ h1{
+    color:greenyellow;
+    font-size:50px;
+ }
+
+ P{
+   color:hotpink;
+   font-size: 50px;
+   line-height: 1.5;
+   text-indent: 60px;
+   text-decoration: underline;
+   letter-spacing: 1px;
+ }
+
+a{
+   color:cornflowerblue;
+}
+a:hover{
+   color:red;
+   font-size: 30px;
+
+}
+.blue{
+   color:blue;
+}
+
+.yellow{
+   color:yellow;
+}
